@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Timothy Mayor
-- It's really nice meeting you!
-- I am Timothy Mayor. I code in JavaScript and Python.
-- You can reach me on [twitter](https://twitter.com/timothymayor24)
-- Looking Forward to meeting you!
+- I code in JavaScript and Python.
+- It's nice meeting you!
+- You can also reach me on [twitter](https://twitter.com/timothymayor24)
+- Looking forward to jaming with you!
 
 
 
