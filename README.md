@@ -1,6 +1,13 @@
-# My CV is deployed on the following platforms - 
+### Hi there 👋
 
-1. https://timothymayor.github.io/;
+Nice to meet you!
 
-2. https://timothymayor.herokuapp.com/
+I am Timothy Mayor. I write Python, JavaScript and C/C++.
 
+
+You can reach me [on twitter](https://twitter.com/timothymayor24)
+
+Looking Forward to meeting you!
+
+
+![](https://komarev.com/ghpvc/?username=timothymayor)
