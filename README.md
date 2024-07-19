@@ -2,7 +2,7 @@
 
 Nice to meet you!
 
-I am Timothy Mayor. I write Python, JavaScript and C/C++.
+I am Timothy Stephen Mayor. I write Python, JavaScript and C/C++.
 
 
 You can reach me [on twitter](https://twitter.com/timothymayor24)
